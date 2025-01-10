@@ -1,0 +1,10 @@
+C:\Users\yunusemrebaycan\OneDrive\Masaüstü\Visual Studio Projeler\VeriTabani\VeriTabani\bin\Debug\VeriTabani.exe.config
+C:\Users\yunusemrebaycan\OneDrive\Masaüstü\Visual Studio Projeler\VeriTabani\VeriTabani\bin\Debug\VeriTabani.exe
+C:\Users\yunusemrebaycan\OneDrive\Masaüstü\Visual Studio Projeler\VeriTabani\VeriTabani\bin\Debug\VeriTabani.pdb
+C:\Users\yunusemrebaycan\OneDrive\Masaüstü\Visual Studio Projeler\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csproj.AssemblyReference.cache
+C:\Users\yunusemrebaycan\OneDrive\Masaüstü\Visual Studio Projeler\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Form1.resources
+C:\Users\yunusemrebaycan\OneDrive\Masaüstü\Visual Studio Projeler\VeriTabani\VeriTabani\obj\Debug\VeriTabani.Properties.Resources.resources
+C:\Users\yunusemrebaycan\OneDrive\Masaüstü\Visual Studio Projeler\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csproj.GenerateResource.cache
+C:\Users\yunusemrebaycan\OneDrive\Masaüstü\Visual Studio Projeler\VeriTabani\VeriTabani\obj\Debug\VeriTabani.csproj.CoreCompileInputs.cache
+C:\Users\yunusemrebaycan\OneDrive\Masaüstü\Visual Studio Projeler\VeriTabani\VeriTabani\obj\Debug\VeriTabani.exe
+C:\Users\yunusemrebaycan\OneDrive\Masaüstü\Visual Studio Projeler\VeriTabani\VeriTabani\obj\Debug\VeriTabani.pdb
